@@ -23,7 +23,9 @@ Aqui vai coisas basicas que vc deve dominar:
 Linguages basicas:
 
 HTML - HyperText Markup Language é o mais básico e deve ser aplicado para qualquer site que você esteja criando. Você define e estrutura o conteúdo de um site.
+
 CSS - Aqui vc vai deixar tudo mais bonitinho, CSS é usado para estilizar sites e adicionar layouts, fontes e cores...
+
 SQL - Structured Query Language é uma linguagem básica usada para gerenciamento de banco de dados.
 
 (contiuação...) 

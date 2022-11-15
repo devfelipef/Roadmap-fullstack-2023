@@ -1,5 +1,6 @@
 # Roadmap-fullstack-2023
 Roadmap para ser fullstack em 2023 em português
+Pra quem tem preguiça de ler vou fazer uma versão resumida com caminhos, apenas imagens e poucas palavras.
 
 Meu roadmap para ser Fullstack 2023
 

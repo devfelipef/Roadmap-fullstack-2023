@@ -21,7 +21,7 @@ Lembrando constancia é tudo, aqui vai algumas dicas opcionais que eu acho impor
 
 Este repositorio beneficiará principalmente os noobs em programação, mas também é útil para programadores profissionais que desejam se tornar desenvolvedores  faz tudo e mais um pouco. Se você já tem conhecimento de algumas das tecnologias sobre as quais irei falar, só pule para as seções que serão úteis para ti. Sinta-se à vontade para personalizar este roteiro para atender às suas necessidades :p
 
-# Aqui começa seu roadmap Fullstack atualiazado prontinho.
+# Aqui começa seu roadmap Fullstack atualizado prontinho.
 
 Nível básico:
 

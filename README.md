@@ -7,7 +7,7 @@ Meu roadmap para ser Fullstack 2023
 
 Ser fullstack parece ser muito dificil, principalmente se vc for um completo iniciante em programação, esse pensamente se deduz que vc tem que aprender tudo em um curto periodo de tempo, mas não! Vai levar um bom tempo para aprender tudo amigão.
 
-As linguagens, frameworks, bibliotecas e bancos de dados e outros, são considerados uma lista de ferramentas para desenvolvimento web Fullstack. A melhor maneira para aprender tal tecnologia é seguir um roadmap e taramm isso é um roadmap exatamente para isso.
+As linguagens, frameworks, bibliotecas e bancos de dados e outros, são considerados uma lista de ferramentas para desenvolvimento Fullstack. A melhor maneira para aprender tal tecnologia é seguir um roadmap e taramm isso é um roadmap exatamente para isso.
 
 Lembrando constancia é tudo, aqui vai algumas dicas opcionais que eu acho importante:
 
@@ -19,7 +19,7 @@ Lembrando constancia é tudo, aqui vai algumas dicas opcionais que eu acho impor
 
 4 - Vc n vai aprender nada se não praticar, bem vindo a programação kkjj.
 
-Este repositorio beneficiará principalmente os noobs em programação, mas também é útil para programadores profissionais que desejam se tornar desenvolvedores web faz tudo e mais um pouco. Se você já tem conhecimento de algumas das tecnologias sobre as quais irei falar, só pule para as seções que serão úteis para ti. Sinta-se à vontade para personalizar este roteiro para atender às suas necessidades :p
+Este repositorio beneficiará principalmente os noobs em programação, mas também é útil para programadores profissionais que desejam se tornar desenvolvedores  faz tudo e mais um pouco. Se você já tem conhecimento de algumas das tecnologias sobre as quais irei falar, só pule para as seções que serão úteis para ti. Sinta-se à vontade para personalizar este roteiro para atender às suas necessidades :p
 
 # Aqui começa seu roadmap Fullstack atualiazado prontinho.
 
